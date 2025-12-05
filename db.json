@@ -27,5 +27,15 @@
       "description": "Es hora de ir a casa",
       "title": "Fin de clases"
     }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "title": "Mi primera publicación",
+      "content": "Mi primera publicación",
+      "date": "04/12/2025",
+      "time": "23:00",
+      "likes": 500
+    }
   ]
 }
