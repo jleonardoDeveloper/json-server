@@ -4,8 +4,8 @@
       "id": 1,
       "isLocal": false,
       "isCompleted": true,
-      "date": "04/12/2025",
-      "time": "18:08",
+      "date": "05/12/2025",
+      "time": "01:08",
       "description": "Recordatorio para ir a mis clases",
       "title": "Ir a IDAT"
     },
@@ -13,8 +13,8 @@
       "id": 2,
       "isLocal": false,
       "isCompleted": false,
-      "date": "04/12/2025",
-      "time": "20:25",
+      "date": "05/12/2025",
+      "time": "01:25",
       "description": "Es hora de un break",
       "title": "BreakTime"
     },
@@ -22,8 +22,8 @@
       "id": 3,
       "isLocal": false,
       "isCompleted": false,
-      "date": "04/12/2025",
-      "time": "20:30",
+      "date": "05/12/2025",
+      "time": "01:30",
       "description": "Es hora de ir a casa",
       "title": "Fin de clases"
     }
