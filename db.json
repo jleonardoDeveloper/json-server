@@ -14,7 +14,7 @@
       "isLocal": false,
       "isCompleted": false,
       "date": "04/12/2025",
-      "time": "20:00",
+      "time": "20:25",
       "description": "Es hora de un break",
       "title": "BreakTime"
     },
@@ -23,7 +23,7 @@
       "isLocal": false,
       "isCompleted": false,
       "date": "04/12/2025",
-      "time": "23:00",
+      "time": "20:30",
       "description": "Es hora de ir a casa",
       "title": "Fin de clases"
     }
